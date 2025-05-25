@@ -14,7 +14,7 @@ def gradio_interface(): # Defines the gradio_interface function
         ],
         outputs=gr.Textbox(label='Travel Itinerary'),
         title='Travel Itinerary Generator', # Title of the UI
-        description='Enter your desired city and planned trip dates!', # Description
+        description='Enter your desired city and trip dates to generate a custom travel plan!', # Description
 
 
     )
