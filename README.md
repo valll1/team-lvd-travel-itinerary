@@ -18,3 +18,4 @@ Valeria Ortega Preciado - Valeria implemented the gradio_interface function, whi
 
 Dora Zhu - Dora implemented the test_setup.py to verify that the environment is working correctly. This includes checking the python version, the virtual environment, required packages needed to run the project (gradio, ollama), Ticketmaster_API_KEY in .env, and if Ollama will run and respond. Dora also implemented the event_analyzer.py to set up a basic Gradio interface that verifies environment components are properly set up. In addition, she implemented the ticketmaster_api.py, which returns the top upcoming events in a city using the Ticketmaster API by using several parameters. Lastly, she implemented the main.py, which connects all components of the project. It runs an environment check, verifies that the local Ollama server is up and responsive, and launches the Gradio user interface if all previous steps pass.
 
+Gradio App Link : https://ddefde997a224d8479.gradio.live/
